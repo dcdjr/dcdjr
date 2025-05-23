@@ -4,6 +4,7 @@ I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in 
 
 ### Interests
 - Cybersecurity & Ethical Hacking
+- Applications of Artificial Intelligence
 - VR Training Systems for Military Use
 - Full-Stack & General Programming
 
