@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Daniel DiPietro
 
-<!--
-**dcdjr/dcdjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in Computer Science with a focus on Cybersecurity. I'm currently developing my technical skills through hands-on projects and coursework aimed at solving real-world problems in digital security and tech education.
 
-Here are some ideas to get you started:
+### Interests
+- Cybersecurity & Ethical Hacking
+- AI-assisted Security Tools
+- VR Training Systems for Military Use
+- Full-Stack & General Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠Projects
+- **VR-Training-Efficacy** – Research-based capstone in collaboration with the RI Air National Guard
+- **APCSA Java Projects** – Foundational object-oriented programming work from AP Computer Science A
+
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/your-username-here)
