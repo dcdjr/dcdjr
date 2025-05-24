@@ -8,7 +8,7 @@ I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in 
 - VR Training Systems for Military Use
 - Full-Stack & General Programming
 
-### 🛠Projects
+### Projects
 - **VR-Training-Efficacy** – Research-based capstone in collaboration with the RI Air National Guard
 - **APCSA Java Projects** – Foundational object-oriented programming work from AP Computer Science A
 
