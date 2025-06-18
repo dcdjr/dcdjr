@@ -11,6 +11,7 @@ I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in 
 ### Projects
 - **VR-Training-Efficacy** – Research-based capstone in collaboration with the RI Air National Guard
 - **APCSA Java Projects** – Foundational object-oriented programming work from AP Computer Science A
+- **CS50** (in progress)
 
 ### Let's Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-dipietro-b4326b369/)
