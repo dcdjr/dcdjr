@@ -1,6 +1,6 @@
 # Hi, I'm Daniel DiPietro
 
-I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in Computer Science with a focus on Cybersecurity. I'm currently developing my technical skills through hands-on projects and coursework aimed at solving real-world problems in digital security and tech education.
+I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in Computer Science with a focus on Cybersecurity. I'm currently developing my technical skills through hands-on projects and coursework aimed at solving real-world problems in digital security and tech education. This is where I’m building my technical portfolio: new CS50 and Cybersecurity projects coming Summer/Fall 2025.  
 
 ### Interests
 - Cybersecurity & Ethical Hacking
