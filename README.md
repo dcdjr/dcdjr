@@ -13,4 +13,4 @@ I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in 
 - **APCSA Java Projects** – Foundational object-oriented programming work from AP Computer Science A
 
 ### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/your-username-here)
+[LinkedIn](https://www.linkedin.com/in/daniel-dipietro-b4326b369/)
