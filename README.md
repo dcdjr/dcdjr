@@ -9,10 +9,9 @@ I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in 
 - Full-Stack & General Programming
 
 ### Projects
-- **VR-Training-Efficacy** - Research-based capstone in collaboration with the RI Air National Guard
+- **VR-Training-Efficacy** - Research-based capstone in collaboration with the Rhode Island Air National Guard
 - **APCSA Java Projects** - Foundational object-oriented programming work from AP Computer Science A
 - **CS50** - (in progress)
-- **Catch the Beetle!** - CS50 Week 0 game project (Scratch)
 
 ### Let's Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-dipietro-b4326b369/)
