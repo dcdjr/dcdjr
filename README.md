@@ -1,5 +1,6 @@
 # Hi, I'm Daniel DiPietro 👋
 
+---
 
 **Schilling Scholar @ University of Rhode Island**  
 **B.S. Computer Science + 4+1 M.S. in Cybersecurity** (Honors)  
