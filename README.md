@@ -1,17 +1,29 @@
-# Hi, I'm Daniel DiPietro
+Hi, I'm Daniel DiPietro 👋
+🎓 Schilling Scholar @ University of Rhode Island
+💻 B.S. Computer Science + 4+1 M.S. in Cybersecurity (Honors)
+🔒 Cybersecurity, AI, and Full-Stack Development Enthusiast
 
-I'm a Schilling Scholar at the University of Rhode Island, pursuing a degree in Computer Science with a focus on Cybersecurity. I'm currently developing my technical skills through hands-on projects and coursework focused on building strong skills in cybersecurity, AI, and real-world systems. This is where I’m building my technical portfolio: new CS50 and Cybersecurity projects coming Summer/Fall 2025.  
+I'm a Computer Science student passionate about building secure, intelligent, and user-focused systems. Currently developing my skills through Harvard’s CS50, CompTIA A+ prep, and hands-on projects that bridge cybersecurity, AI, and real-world problem solving.
 
-### Interests
-- Cybersecurity & Ethical Hacking
-- Applications of Artificial Intelligence
-- VR Training Systems for Military Use
-- Full-Stack & General Programming
+🔍 Interests
+Cybersecurity & Ethical Hacking
 
-### Projects
-- **VR-Training-Efficacy** - Research-based capstone in collaboration with the Rhode Island Air National Guard
-- **APCSA Java Projects** - Foundational object-oriented programming work from AP Computer Science A
-- **CS50** - (in progress)
+Applications of Artificial Intelligence
 
-### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/daniel-dipietro-b4326b369/)
+VR & Simulation Systems for Training
+
+Full-Stack & General Programming
+
+🚀 Current Projects
+CS50 (Python, C, SQL, Flask, HTML/CSS/JS) — In progress, building a strong foundation in computer science & software development.
+
+VR Training Efficacy (Unity, C#) — Research-based capstone with the Rhode Island Air National Guard, evaluating VR systems for military training.
+
+APCSA Java Projects (Java, OOP) — Foundational object-oriented programming work from AP Computer Science A.
+
+📚 Currently Learning
+SQL & Relational Databases
+
+Computer Hardware & Networking Fundamentals (CompTIA A+ 220-1101/1102)
+
+Cybersecurity Basics via TryHackMe Presecurity Path
