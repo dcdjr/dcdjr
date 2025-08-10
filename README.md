@@ -1,11 +1,12 @@
 # Hi, I'm Daniel DiPietro 👋
 
+
 **Schilling Scholar @ University of Rhode Island**  
 **B.S. Computer Science + 4+1 M.S. in Cybersecurity** (Honors)  
 
 ---
 
-## 🔍 Interests
+## Interests
 - **Cybersecurity & Ethical Hacking**
 - **Applications of Artificial Intelligence**
 - **VR & Simulation Systems for Training**
@@ -20,10 +21,6 @@
 
 ---
 
-## 📫 Let’s Connect
-- [**LinkedIn**](https://www.linkedin.com/in/your-link)  
-- **Email:** youremail@example.com  
-
----
-
-⚡ *275+ contributions this year — always building, learning, and shipping.*
+## Let’s Connect
+- [**LinkedIn**](https://www.linkedin.com/feed/)  
+- **Email:** ddipietro8227@gmail.com
