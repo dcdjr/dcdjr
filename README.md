@@ -7,14 +7,6 @@ I’m a Computer Science student at the University of Rhode Island in the 4+1 Cy
 
 ---
 
-## Interests
-- **Cybersecurity & Ethical Hacking**
-- **Applications of Artificial Intelligence**
-- **VR & Simulation Systems for Training**
-- **Full-Stack & General Programming**
-
----
-
 ## Current Projects
 - **CS50** *(Python, C, SQL, Flask, HTML/CSS/JS)* - In progress, building a strong foundation in computer science & software development.  
 - **VR Training Efficacy** - Research-based capstone with the Rhode Island Air National Guard, evaluating VR systems for military training.  
