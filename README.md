@@ -3,7 +3,7 @@
 **Schilling Scholar @ University of Rhode Island**  
 **B.S. Computer Science + 4+1 M.S. in Cybersecurity** (Honors)  
 
-I’m a Computer Science student at the University of Rhode Island in the 4+1 Cybersecurity program.
+I’m a Computer Science student at the University of Rhode Island.
 
 ---
 
