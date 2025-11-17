@@ -53,5 +53,5 @@ Analyzed the effectiveness of VR-based training systems and presented findings t
 
 ## Connect
 
-**LinkedIn:** https://www.linkedin.com/in/danieldipietrojr  
+**LinkedIn:** https://www.linkedin.com/in/daniel-dipietro-jr/
 **Email:** ddipietro8227@gmail.com
