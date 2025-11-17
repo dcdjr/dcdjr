@@ -9,7 +9,7 @@ I build practical software, study systems, and focus on developing strength in a
 
 ## Featured Projects
 
-### 🔐 Password50 - Full-Stack Password Manager
+### Password50 - Full-Stack Password Manager
 **Tech:** Flask, SQLite, Python, HTML/CSS/JS  
 Secure password manager using Fernet encryption, hashed master passwords, and session authentication.  
 Includes full CRUD operations, clean Bootstrap UI, and fast search filtering.  
@@ -17,28 +17,28 @@ Includes full CRUD operations, clean Bootstrap UI, and fast search filtering.
 
 ---
 
-### 🤖 AI Multi-Tool - 2nd Place @ Hack@URI
+### AI Multi-Tool - 2nd Place @ Hack@URI
 **Tech:** Gemini API, Wolfram, Desmos  
 Multi-module AI assistant built in 8 hours for Hack@URI.  
 Integrated Math Tutor, Code Tutor, Language, Law, and Medical practice modes with structured prompt engineering.
 
 ---
 
-### 🖥️ Portfolio Website
+### Portfolio Website
 **Tech:** HTML, CSS, JavaScript, Bootstrap  
 Responsive personal site designed to showcase CS50 work, research, and technical projects.  
 Semantic layout, modular project cards, and clean UI.
 
 ---
 
-### 🎮 Algorithmic & Simulation Projects
+### Algorithmic & Simulation Projects
 **Tech:** Python, C++  
 Wordle clone, Game of Life simulation, Sudoku checker, KNN classifier, and numerical-series solvers.  
 Focus on algorithms, data structures, and simulation logic.
 
 ---
 
-### 🎓 VR Training Research - RI Air National Guard
+### VR Training Research - RI Air National Guard
 Analyzed the effectiveness of VR-based training systems and presented findings to academic leadership.
 
 ---
