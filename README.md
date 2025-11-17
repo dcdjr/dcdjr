@@ -1,20 +1,57 @@
-# Hi, I'm Daniel DiPietro 👋
+# Daniel DiPietro Jr.
 
-**Schilling Scholar @ University of Rhode Island**  
-**B.S. Computer Science + 4+1 M.S. in Cybersecurity** (Honors)  
+**Computer Science @ University of Rhode Island**  
+**Schilling Scholar • Honors College • Data Science Minor • 4+1 Cybersecurity Path**
 
-I’m a Computer Science student at the University of Rhode Island.
-
----
-
-## Projects
-- **CS50** *(Python, C, SQL, Flask, HTML/CSS/JS)* - In progress, building a strong foundation in computer science & software development.  
-- **VR Training Efficacy** - Research-based capstone with the Rhode Island Air National Guard, evaluating VR systems for military training.  
-- **APCSA Java Projects** *(Java, OOP)* - Foundational object-oriented programming work from AP Computer Science A.
-- **Portfolio Site** - Built and deployed a responsive, mobile-first personal portfolio to showcase CS50 work and research, featuring clean HTML/CSS with lightweight JavaScript and Bootstrap implementation.
+I build practical software, study systems, and focus on developing strength in algorithms, security, and low-level computing.
 
 ---
 
-## Let’s Connect
-- [**LinkedIn**](https://www.linkedin.com/feed/)  
-- **Email:** ddipietro8227@gmail.com
+## Featured Projects
+
+### 🔐 Password50 — Full-Stack Password Manager
+**Tech:** Flask, SQLite, Python, HTML/CSS/JS  
+Secure password manager using Fernet encryption, hashed master passwords, and session authentication.  
+Includes full CRUD operations, clean Bootstrap UI, and fast search filtering.  
+<!-- Add GitHub link when public -->
+
+---
+
+### 🤖 AI Multi-Tool — 2nd Place @ Hack@URI
+**Tech:** Gemini API, Wolfram, Desmos  
+Multi-module AI assistant built in 8 hours for Hack@URI.  
+Integrated Math Tutor, Code Tutor, Language, Law, and Medical practice modes with structured prompt engineering.
+
+---
+
+### 🖥️ Portfolio Website
+**Tech:** HTML, CSS, JavaScript, Bootstrap  
+Responsive personal site designed to showcase CS50 work, research, and technical projects.  
+Semantic layout, modular project cards, and clean UI.
+
+---
+
+### 🎮 Algorithmic & Simulation Projects
+**Tech:** Python, C++  
+Wordle clone, Game of Life simulation, Sudoku checker, KNN classifier, and numerical-series solvers.  
+Focus on algorithms, data structures, and simulation logic.
+
+---
+
+### 🎓 VR Training Research – RI Air National Guard
+Analyzed the effectiveness of VR-based training systems and presented findings to academic leadership.
+
+---
+
+## Skills
+
+**Languages:** Python, C, C++, JavaScript (basic), HTML/CSS, SQL  
+**Tools:** Flask, SQLite, Git/GitHub, Bootstrap, Google AI Studio  
+**Interests:** Cybersecurity, algorithms, systems programming, numerical methods
+
+---
+
+## Connect
+
+**LinkedIn:** https://www.linkedin.com/in/danieldipietrojr  
+**Email:** ddipietro8227@gmail.com
