@@ -17,7 +17,7 @@ Includes full CRUD operations, clean Bootstrap UI, and fast search filtering.
 
 ---
 
-### AI Multi-Tool - 2nd Place @ Hack@URI
+### Gemini AI Toolkit - 2nd Place @ Hack@URI
 **Tech:** Gemini API, Wolfram, Desmos  
 Multi-module AI assistant built in 8 hours for Hack@URI.  
 Integrated Math Tutor, Code Tutor, Language, Law, and Medical practice modes with structured prompt engineering.
