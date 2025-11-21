@@ -1,7 +1,7 @@
 # Daniel DiPietro Jr.
 
 **Computer Science @ University of Rhode Island**  
-**Schilling Scholar • Honors College • Data Science Minor • 4+1 Cybersecurity Path**
+**Schilling Scholar | Honors College**
 
 I’m a CS student and right now I’m focused on getting strong at C, algorithms, systems, and security.
 
@@ -9,7 +9,7 @@ I’m a CS student and right now I’m focused on getting strong at C, algorithm
 
 ## Featured Projects
 
-### Password50 – Full-Stack Password Manager
+### Password50 - Full-Stack Password Manager
 **Tech:** Flask, SQLite, Python, HTML/CSS/JS  
 
 Small, practical password manager built from scratch as my CS50 final project.  
