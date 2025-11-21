@@ -17,7 +17,7 @@ Uses Fernet encryption and hashed master passwords, with session-based login, fu
 
 ---
 
-### Gemini AI Toolkit – 2nd Place @ Hack@URI
+### Gemini AI Toolkit - 2nd Place @ Hack@URI
 **Tech:** Gemini API, Wolfram, Desmos  
 
 Team project built in ~8 hours for Hack@URI.  
@@ -48,7 +48,7 @@ These are mainly for getting comfortable with problem solving, data structures, 
 
 ---
 
-### VR Training Research – RI Air National Guard
+### VR Training Research - RI Air National Guard
 
 Worked on a research project analyzing how effective VR-based training is compared to more traditional methods.  
 Helped with the analysis and contributed to a presentation delivered to academic leadership.
