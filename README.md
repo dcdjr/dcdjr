@@ -3,55 +3,63 @@
 **Computer Science @ University of Rhode Island**  
 **Schilling Scholar | Honors College**
 
-I’m a CS student and right now I’m focused on getting strong at C, algorithms, systems, and security.
+Computer science student focused on building strong fundamentals in **C, algorithms, systems programming, and security**.  
+I prioritize low-level understanding, hands-on projects, and learning how software works beneath abstractions.
 
 ---
 
 ## Featured Projects
 
-### Password50 - Full-Stack Password Manager
-**Tech:** Flask, SQLite, Python, HTML/CSS/JS  
+### Password50 – Secure Password Manager
+**Tech:** Python, Flask, SQLite, HTML/CSS/JS  
 
-Small, practical password manager built from scratch as my CS50 final project.  
-Uses Fernet encryption and hashed master passwords, with session-based login, full CRUD for entries, and a simple, responsive UI with a search bar for quick lookups.
+Full-stack password manager built from scratch as my CS50 final project.  
+Implements Fernet-based encryption, hashed master passwords, session-based authentication, and full CRUD operations.  
+Designed with a simple, responsive UI and search functionality for fast credential lookup.
 
 ---
 
-### Gemini AI Toolkit - 2nd Place @ Hack@URI
+### Gemini AI Toolkit – 2nd Place @ Hack@URI
 **Tech:** Gemini API, Wolfram, Desmos  
 
-Team project built in ~8 hours for Hack@URI.  
-We put together a multi-panel AI assistant with dedicated modes (Math Tutor, Code Tutor, Language, Law, Medical), each with its own prompt structure to keep responses focused and consistent.
+Team-built AI toolkit developed in ~8 hours during Hack@URI.  
+Includes multiple specialized modes (Math, Code, Language, Law, Medical), each with structured prompting to keep responses focused, consistent, and task-specific.
+
+---
+
+### TCP Port Scanner
+**Tech:** C, Sockets, Multithreading  
+
+Lightweight multithreaded TCP port scanner written in C.  
+Explores low-level networking concepts including socket APIs, timeouts, concurrency, and basic banner grabbing for service identification.
 
 ---
 
 ### Portfolio Website
 **Tech:** HTML, CSS, JavaScript, Bootstrap  
 
-Personal site to host my CS50 work, research, and side projects.  
-Built with a simple, responsive layout, reusable project cards, and clean styling so I can easily plug in new projects as I go.
+Personal website used to showcase projects, research, and technical progress.  
+Built with a clean, responsive layout and reusable components so new projects can be added easily.
 
 ---
 
 ### Algorithmic & Simulation Projects
 **Tech:** Python, C++  
 
-A set of smaller projects to practice core CS ideas:
+Smaller projects used to practice core CS concepts such as problem solving, data structures, and simulation logic, including:
 
 - Wordle clone  
 - Conway’s Game of Life  
 - Sudoku checker  
 - KNN classifier  
-- Numerical series / approximation scripts  
-
-These are mainly for getting comfortable with problem solving, data structures, and simulation-style logic.
+- Numerical series and approximation scripts  
 
 ---
 
-### VR Training Research - RI Air National Guard
+### VR Training Research – RI Air National Guard
 
-Worked on a research project analyzing how effective VR-based training is compared to more traditional methods.  
-Helped with the analysis and contributed to a presentation delivered to academic leadership.
+Research project analyzing the effectiveness of VR-based training compared to traditional methods.  
+Contributed to data analysis and helped present findings to academic leadership.
 
 ---
 
@@ -59,7 +67,7 @@ Helped with the analysis and contributed to a presentation delivered to academic
 
 **Languages:** Python, C, C++, JavaScript (basic), HTML/CSS, SQL  
 **Tools:** Flask, SQLite, Git/GitHub, Bootstrap, Google AI Studio  
-**Interests:** Cybersecurity, systems programming, algorithms, numerical methods
+**Core Areas:** Systems programming, algorithms, data structures, cybersecurity fundamentals
 
 ---
 
