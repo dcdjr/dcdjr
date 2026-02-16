@@ -3,71 +3,68 @@
 **Computer Science @ University of Rhode Island**  
 **Schilling Scholar | Honors College**
 
-Computer science student focused on building strong fundamentals in **C, algorithms, systems programming, and security**.  
-I prioritize low-level understanding, hands-on projects, and learning how software works beneath abstractions.
+Computer science student focused on building strong fundamentals in **systems programming, low-level C, algorithms, and cybersecurity**.  
+I prioritize understanding how software works beneath abstractions through hands-on projects involving memory management, process control, networking, and operating system concepts.
 
 ---
 
 ## Featured Projects
 
-### Password50 – Secure Password Manager
-**Tech:** Python, Flask, SQLite, HTML/CSS/JS  
+### Minimal Unix Shell (C)
+**Tech:** C, POSIX, fork/exec, signals  
 
-Full-stack password manager built from scratch as my CS50 final project.  
-Implements Fernet-based encryption, hashed master passwords, session-based authentication, and full CRUD operations.  
-Designed with a simple, responsive UI and search functionality for fast credential lookup.
+Unix-like command-line shell written in C using POSIX APIs.  
+Implements command parsing, process creation with `fork` and `execvp`, built-in commands (`cd`, `exit`), and signal handling so Ctrl-C terminates foreground jobs without killing the shell.  
+Designed with modular source files, explicit memory ownership, and correct parent/child process semantics.
 
 ---
 
-### Gemini AI Toolkit – 2nd Place @ Hack@URI
-**Tech:** Gemini API, Wolfram, Desmos  
+### Password50 – Secure Password Manager
+**Tech:** Python, Flask, SQLite, HTML/CSS/JavaScript  
 
-Team-built AI toolkit developed in ~8 hours during Hack@URI.  
-Includes multiple specialized modes (Math, Code, Language, Law, Medical), each with structured prompting to keep responses focused, consistent, and task-specific.
+Full-stack password manager built from scratch as my CS50 final project.  
+Implements Fernet-based encryption, hashed master passwords, session-based authentication, and full CRUD functionality for secure credential storage.  
+Designed with a clean, responsive interface and fast search for credential lookup.
+
+---
+
+### Custom Memory Allocator (C)
+**Tech:** C, Manual Memory Management  
+
+Implemented a simplified `malloc`/`free` system in C to explore heap management internals.  
+Designed block metadata, free lists, splitting, and coalescing to reduce fragmentation and better understand dynamic memory allocation behavior.
 
 ---
 
 ### TCP Port Scanner
 **Tech:** C, Sockets, Multithreading  
 
-Lightweight multithreaded TCP port scanner written in C.  
-Explores low-level networking concepts including socket APIs, timeouts, concurrency, and basic banner grabbing for service identification.
+Multithreaded TCP port scanner written in C.  
+Explores low-level networking concepts including socket APIs, concurrency, configurable timeouts, and basic banner grabbing for service identification.
 
 ---
 
-### Portfolio Website
-**Tech:** HTML, CSS, JavaScript, Bootstrap  
+### C++ HTTP Server (Work in Progress)
+**Tech:** C++, Sockets, HTTP  
 
-Personal website used to showcase projects, research, and technical progress.  
-Built with a clean, responsive layout and reusable components so new projects can be added easily.
-
----
-
-### Algorithmic & Simulation Projects
-**Tech:** Python, C++  
-
-Smaller projects used to practice core CS concepts such as problem solving, data structures, and simulation logic, including:
-
-- Wordle clone  
-- Conway’s Game of Life  
-- Sudoku checker  
-- KNN classifier  
-- Numerical series and approximation scripts  
+HTTP server implemented from scratch in C++ to explore application-layer protocols and systems-level networking.  
+Handles TCP connections, request parsing, and response generation, with ongoing work on concurrency, static file serving, and improved protocol compliance.
 
 ---
 
-### VR Training Research – RI Air National Guard
+### Gemini AI Toolkit – 2nd Place @ Hack@URI
+**Tech:** Gemini API, Wolfram, Desmos  
 
-Research project analyzing the effectiveness of VR-based training compared to traditional methods.  
-Contributed to data analysis and helped present findings to academic leadership.
+Team-built AI toolkit developed under an 8-hour hackathon constraint.  
+Includes multiple specialized modes (Math, Code, Language, Law, Medical) with structured prompting to keep responses focused, consistent, and task-specific.
 
 ---
 
 ## Skills
 
-**Languages:** Python, C, C++, JavaScript (basic), HTML/CSS, SQL  
-**Tools:** Flask, SQLite, Git/GitHub, Bootstrap, Google AI Studio  
-**Core Areas:** Systems programming, algorithms, data structures, cybersecurity fundamentals
+**Languages:** C, C++, Python, JavaScript (basic), HTML/CSS, SQL  
+**Tools:** Git/GitHub, Flask, SQLite, Bootstrap, Google AI Studio  
+**Core Areas:** Systems programming, memory management, algorithms, data structures, networking fundamentals, cybersecurity fundamentals
 
 ---
 
