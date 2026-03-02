@@ -10,7 +10,7 @@ I’m interested in how software actually works under the hood, so most of my pr
 
 ## Projects
 
-### sgit – Git-like Version Control (C++)
+### sgit (WIP) – Git-like Version Control (C++)
 Building a simplified version of Git to understand how version control works internally.  
 Uses content-addressable storage with hashing, and includes staging and commits.
 
@@ -34,7 +34,7 @@ Implements timeouts, basic service detection, and concurrent scanning.
 
 ---
 
-### C++ HTTP Server
+### HTTP Server (C++)
 HTTP server built from scratch using sockets.  
 Handles request parsing and response generation over TCP.
 
