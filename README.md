@@ -3,60 +3,54 @@
 **Computer Science @ University of Rhode Island**  
 **Schilling Scholar | Honors College**
 
-Computer science student focused on systems programming, low-level C, and cybersecurity.  
-I like building things close to the metal, working with memory, processes, and networking to understand how software actually runs.
+Computer science student focused on systems programming, low-level programming, and cybersecurity.  
+I’m interested in how software actually works under the hood, so most of my projects involve networking, processes, or building core tools from scratch.
 
 ---
 
 ## Projects
 
-### sgit (WIP) – Git-like Version Control
-Content-addressable version control system in C++.  
-Implements object storage (blobs/trees), hashing, staging, and commits to understand how Git works under the hood.
+### sgit – Git-like Version Control (C++)
+Building a simplified version of Git to understand how version control works internally.  
+Uses content-addressable storage with hashing, and includes staging and commits.
 
 ---
 
 ### Minimal Unix Shell (C)
-C shell built with POSIX APIs.  
-Implements command parsing, `fork`/`execvp`, built-ins (`cd`, `exit`), and signal handling (Ctrl-C kills the process, not the shell).
+Command-line shell built using POSIX APIs.  
+Supports command parsing, `fork`/`execvp`, built-in commands (`cd`, `exit`), and basic signal handling.
 
 ---
 
 ### Password50 – Password Manager
-Full-stack app (Flask, SQLite).  
-Encrypted storage (Fernet), hashed master password, authentication, and full CRUD for credentials.
+Full-stack password manager built with Flask and SQLite.  
+Includes encrypted credential storage, authentication, and full CRUD functionality.
 
 ---
 
-### Custom Memory Allocator (C)
-Basic `malloc`/`free` implementation.  
-Includes block metadata, free lists, splitting, and coalescing.
+### TCP Port Scanner (C)
+Multithreaded TCP port scanner using sockets.  
+Implements timeouts, basic service detection, and concurrent scanning.
 
 ---
 
-### TCP Port Scanner
-Multithreaded scanner in C using sockets.  
-Supports timeouts and basic banner grabbing.
+### C++ HTTP Server
+HTTP server built from scratch using sockets.  
+Handles request parsing and response generation over TCP.
 
 ---
 
-### C++ HTTP Server (WIP)
-HTTP server from scratch using sockets.  
-Handles request parsing and responses, working on concurrency and file serving.
-
----
-
-### Gemini AI Toolkit – 2nd @ Hack@URI
-Built in an 8-hour hackathon.  
-Multi-mode AI tool (math, code, etc.) using structured prompting.
+### Gemini AI Toolkit – 2nd Place @ Hack@URI
+Built in an 8-hour hackathon with a team.  
+Created a multi-mode AI tool (math, code, etc.) using structured prompting.
 
 ---
 
 ## Skills
 
 **Languages:** C, C++, Python, JavaScript (basic), HTML/CSS, SQL  
-**Tools:** Git, Flask, SQLite  
-**Focus:** Systems, memory, networking, cybersecurity
+**Tools:** Git/GitHub, Flask, SQLite  
+**Core Areas:** Systems programming, networking, data structures, cybersecurity fundamentals
 
 ---
 
