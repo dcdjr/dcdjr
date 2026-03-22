@@ -16,7 +16,7 @@ Interested in systems programming, low-level software, and cybersecurity.
 
 ## Skills
 
-**Languages:** C, C++, Python, JavaScript, HTML/CSS, SQL  
+**Languages:** C, C++, Python, HTML/CSS, SQL  
 **Tools:** Git, GitHub, Flask, SQLite  
 **Areas:** Systems programming, networking, data structures, cybersecurity fundamentals
 
