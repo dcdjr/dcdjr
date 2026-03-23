@@ -7,7 +7,6 @@ Interested in systems programming, low-level software, and cybersecurity.
 
 ## Projects
 
-- **sgit (WIP)** — Git-like version control system in C++
 - **Minimal Unix Shell** — POSIX shell in C with parsing, built-ins, and process execution
 - **Password50** — Flask + SQLite password manager with encrypted credential storage
 - **TCP Port Scanner** — Multithreaded port scanner in C with timeouts and basic service detection
