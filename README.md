@@ -1,8 +1,8 @@
 # Daniel DiPietro Jr.
 
 Computer Science student at the University of Rhode Island.  
-Schilling Scholar, Honors College.
-\nInterested in C/C++/Python programming, AI, and cybersecurity.
+Schilling Scholar, Honors College.  
+Interested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Current Project:
 
