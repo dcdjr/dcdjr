@@ -2,12 +2,11 @@
 
 Computer Science student at the University of Rhode Island.  
 Schilling Scholar, Honors College.
+Interested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Current Project:
 
 tcom - A tiny 8-bit computer emulator.
-
-Interested in systems programming, low-level software, and cybersecurity.
 
 ## Projects
 
