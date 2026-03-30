@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Rhode Island.  
 Schilling Scholar, Honors College.
-Interested in C/C++/Python programming, AI, and cybersecurity.
+\nInterested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Current Project:
 
