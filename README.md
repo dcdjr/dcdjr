@@ -10,11 +10,11 @@ tcom - A tiny 8-bit computer emulator.
 
 ## Projects
 
-- **Minimal Unix Shell** — POSIX shell in C with parsing, built-ins, and process execution
-- **Password50** — Flask + SQLite password manager with encrypted credential storage
-- **TCP Port Scanner** — Multithreaded port scanner in C with timeouts and basic service detection
-- **HTTP Server** — C++ server built from scratch with socket-based request/response handling
-- **Gemini AI Toolkit** — Hack@URI project, 2nd place
+- **Minimal Unix Shell** - POSIX shell in C with parsing, built-ins, and process execution
+- **Password50** - Flask + SQLite password manager with encrypted credential storage
+- **TCP Port Scanner** - Multithreaded port scanner in C with timeouts and basic service detection
+- **HTTP Server** - C++ server built from scratch with socket-based request/response handling
+- **Gemini AI Toolkit** - Hack@URI project, 2nd place
 
 ## Skills
 
