@@ -6,7 +6,7 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Current Project:
 
-**Sentinel** - A simple host based intrusion detection system built for self-hosted Linux infra or homelabs
+**Sentinel** - A simple host based intrusion detection system built for self-hosted Linux infra or homelabs.
 
 ## Projects
 
