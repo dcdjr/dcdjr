@@ -27,3 +27,4 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 ## Links
 
 - **LinkedIn:** [daniel-dipietro-jr](https://www.linkedin.com/in/daniel-dipietro-jr/)
+- **Portfolio:** [dcdjr.me](https://www.dcdjr.me)
