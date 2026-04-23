@@ -27,4 +27,3 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 ## Links
 
 - **LinkedIn:** [daniel-dipietro-jr](https://www.linkedin.com/in/daniel-dipietro-jr/)
-- **Email:** ddipietro8227@gmail.com
