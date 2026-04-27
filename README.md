@@ -3,7 +3,7 @@
 Computer Science student & Schilling Scholar at the University of Rhode Island.  
 Interested in C/C++/Python programming, AI, and cybersecurity.
 
-## Current Projects:
+## Current Projects
 
 - **Sentinel** - A simple host based intrusion detection system built for self-hosted Linux infra or homelabs.
 - **Mind** - A lightweight, local-first personal AI assistant.
