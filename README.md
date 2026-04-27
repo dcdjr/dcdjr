@@ -1,7 +1,6 @@
 # Daniel DiPietro Jr.
 
-Computer Science student at the University of Rhode Island.  
-Schilling Scholar, Honors College.  
+Computer Science student & Schilling Scholar at the University of Rhode Island.  
 Interested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Current Project:
@@ -16,12 +15,6 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 - **TCP Port Scanner** - Multithreaded port scanner in C with timeouts and basic service detection.
 - **HTTP Server** - C++ server built from scratch with socket-based request/response handling.
 - **Gemini AI Toolkit** - Suite of AI tools built as a Hack@URI project, won 2nd place.
-
-## Skills
-
-**Languages:** C, C++, Python, HTML/CSS, SQL  
-**Tools:** Git, GitHub, Flask, SQLite  
-**Areas:** Systems programming, networking, data structures, cybersecurity fundamentals
 
 ## Links
 
