@@ -8,7 +8,7 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 - **Sentinel** - A simple host based intrusion detection system built for self-hosted Linux infra or homelabs.
 - **Mind** - A lightweight, local-first personal AI assistant.
 
-## Projects
+## Previous Projects
 
 - **tcom** - A tiny 8-bit computer emulator with a defined ISA, full test suite, and proper CPU simulation.
 - **Minimal Unix Shell** - POSIX shell in C with parsing, built-ins, and process execution.
