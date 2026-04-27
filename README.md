@@ -10,7 +10,7 @@ Interested in C/C++/Python programming, AI, and cybersecurity.
 
 ## Previous Projects
 
-- **tcom** - A tiny 8-bit computer emulator with a defined ISA, full test suite, and proper CPU simulation.
+- **tcom** - A tiny 8-bit computer emulator with a defined ISA and full test suite.
 - **Minimal Unix Shell** - POSIX shell in C with parsing, built-ins, and process execution.
 - **Password50** - Flask + SQLite password manager with encrypted credential storage.
 - **TCP Port Scanner** - Multithreaded port scanner in C with timeouts and basic service detection.
