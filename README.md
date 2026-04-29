@@ -26,5 +26,5 @@ Computer Science student at the University of Rhode Island focused on cybersecur
 
 ## Links
 
-- **Portfolio:** dcdjr.me
-- **LinkedIn:** daniel-dipietro-jr
+- **Portfolio:** [dcdjr.me](https://dcdjr.me)
+- **LinkedIn:** [daniel-dipietro-jr](https://linkedin.com/in/daniel-dipietro-jr)
