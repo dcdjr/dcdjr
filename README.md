@@ -1,21 +1,23 @@
 # Daniel DiPietro Jr.
 
-Computer Science student at the University of Rhode Island focused on cybersecurity, software engineering, and AI.
+Computer Science student at the University of Rhode Island focused on systems programming, cybersecurity, software engineering, and AI.
 
 ## Current Focus
 
 - Building systems and security projects in C, C++, and Python
 - Learning Linux, networking, and host-based security fundamentals
 - Developing public projects that show practical implementation, not just coursework
+- Building local-first AI tools with clear architecture and safe file access
 
 ## Featured Projects
 
+- **Mind** — Local-first personal AI assistant prototype with a CLI, workspace-aware file access, local model interaction through Ollama, and an architecture designed for future memory and tool support.
+- **Sentinel** — Work-in-progress host-based IDS for Linux homelabs with separate agent and collector executables, structured JSON events, and length-prefixed TCP event delivery.
 - **TCOM 8-Bit Emulator** — 8-bit computer emulator in C with registers, memory, a program counter, status flags, a defined ISA, and a test suite.
-- **HTTP Server** — Multithreaded HTTP/1.1 server in C++ using POSIX sockets, request parsing, static file serving, MIME detection, and defensive error handling.
+- **C++ HTTP Server** — Multithreaded HTTP/1.1 server in C++ using POSIX sockets, request parsing, static file serving, MIME detection, and defensive error handling.
 - **Minimal Unix Shell** — Unix-style shell in C with command parsing, built-ins, signal handling, and fork/exec-based process execution.
-- **TCP Port Scanner** — Multithreaded TCP port scanner in C using Winsock2, configurable timeouts, banner grabbing, and service detection.
-- **Password50** — Flask and SQLite password manager with authentication, encrypted credential storage, SQL CRUD operations, and a Bootstrap interface.
-- **Sentinel** — Work-in-progress host-based IDS for Linux homelabs and self-hosted infrastructure.
+- **TCP Port Scanner** — Multithreaded TCP port scanner in C using Winsock2, configurable timeouts, banner grabbing, and service detection for authorized lab use.
+- **Password50** — CS50 final project: Flask and SQLite password manager with authentication, encrypted credential storage, SQL CRUD operations, and a Bootstrap interface.
 
 ## Skills
 
