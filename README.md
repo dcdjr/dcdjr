@@ -4,7 +4,7 @@ Computer Science student at the University of Rhode Island focused on systems pr
 
 ## Featured Projects
 
-- **Mind** — Local-first personal AI assistant prototype with a CLI, workspace-aware file access, local model interaction through Ollama, and an architecture designed for future memory and tool support.
+- **Mind** — Local-first personal AI assistant runtime with a CLI, workspace-aware file access, local model interaction through Ollama, and a package-based architecture.
 - **Sentinel** — Work-in-progress host-based IDS for Linux homelabs with separate agent and collector executables, structured JSON events, and length-prefixed TCP event delivery.
 - **TCOM 8-Bit Emulator** — 8-bit computer emulator in C with registers, memory, a program counter, status flags, a defined ISA, and a test suite.
 - **C++ HTTP Server** — Multithreaded HTTP/1.1 server in C++ using POSIX sockets, request parsing, static file serving, MIME detection, and defensive error handling.
