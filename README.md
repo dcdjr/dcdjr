@@ -2,13 +2,6 @@
 
 Computer Science student at the University of Rhode Island focused on systems programming, cybersecurity, software engineering, and AI.
 
-## Current Focus
-
-- Building systems and security projects in C, C++, and Python
-- Learning Linux, networking, and host-based security fundamentals
-- Developing public projects that show practical implementation, not just coursework
-- Building local-first AI tools with clear architecture and safe file access
-
 ## Featured Projects
 
 - **Mind** — Local-first personal AI assistant prototype with a CLI, workspace-aware file access, local model interaction through Ollama, and an architecture designed for future memory and tool support.
