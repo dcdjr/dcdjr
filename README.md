@@ -2,11 +2,6 @@
 
 Computer Science student at the University of Rhode Island focused on systems programming, cybersecurity, software engineering, and AI.
 
-## Current Projects
-
-- **rune** - A small language/compiler implementation written in C.
-- **Ghostline** - A self-hostable multi-user chat application with a React frontend and FastAPI backend.
-
 ## Featured Projects
 
 - **Mind** - Local-first personal AI assistant runtime with a CLI, workspace-aware file access, local model interaction through Ollama, and a package-based architecture.
