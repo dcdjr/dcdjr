@@ -4,7 +4,7 @@ Computer Science student at the University of Rhode Island focused on systems pr
 
 ## Current Project(s)
 
-- *rune* - A WIP programming language implmeentation in C++.
+- **rune** - A WIP programming language implmeentation in C++.
 
 ## Featured Projects
 
