@@ -15,13 +15,6 @@ Computer Science student at the University of Rhode Island focused on systems pr
 - **TCP Port Scanner** - Multithreaded TCP port scanner in C using Winsock2, configurable timeouts, banner grabbing, and service detection for authorized lab use.
 - **Password50** - CS50 final project: Flask and SQLite password manager with authentication, encrypted credential storage, SQL CRUD operations, and a Bootstrap interface.
 
-## Skills
-
-**Languages:** C, C++, Python, SQL  
-**Systems & Networking:** Linux, POSIX, Bash, TCP/IP, HTTP, sockets, Make  
-**Security:** Packet analysis, log analysis, network reconnaissance, system troubleshooting  
-**Web & Tools:** Flask, SQLite, HTML/CSS, Bootstrap, Git, GitHub, Neovim, VS Code  
-
 ## Links
 
 - **Portfolio:** [dcdjr.me](https://dcdjr.me)
