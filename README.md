@@ -2,6 +2,10 @@
 
 Computer Science student at the University of Rhode Island focused on systems programming, cybersecurity, software engineering, and AI.
 
+## Current Project(s)
+
+- *rune* - A WIP programming language implmeentation in C++.
+
 ## Featured Projects
 
 - **Mind** - Local-first personal AI assistant runtime with a CLI, workspace-aware file access, local model interaction through Ollama, and a package-based architecture.
